@@ -1,0 +1,21 @@
+{
+  "name": "restaurant-food-app-backend",
+  "version": "1.0.0",
+  "description": "food app node js express",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DaniaSalamhdr4/restaurant-food-app-backend.git"
+  },
+  "keywords": [],
+  "author": "Dania Salama",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/DaniaSalamhdr4/restaurant-food-app-backend/issues"
+  },
+  "homepage": "https://github.com/DaniaSalamhdr4/restaurant-food-app-backend#readme"
+}
